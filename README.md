@@ -1,4 +1,4 @@
-# job-search / career-ops 中国版
+# career-ops AI直聘版
 
 > 基于 Claude Code 的 AI 驱动求职自动化工作流 — 评估 offer、生成简历、自动扫岗、追踪申请，专为**中国求职市场**本地化定制。
 
